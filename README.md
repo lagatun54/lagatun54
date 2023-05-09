@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything about Game Development.
 - 💬 Ask me about... No, just chat me.
 
-### Languages:
+### Skills:
 
 <img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 <img align="left" alt="Unity" width="26px" src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1634728034" />
