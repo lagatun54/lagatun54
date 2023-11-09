@@ -1,8 +1,5 @@
 ## Hi there, my name is Prokhar Kulak 👋
 
-
-### I'm student of BSUIR and some facts about me:
-
 - 🔭 I’m currently not working.
 - 🌱 I’m currently learning everything about Game Development.
 - 💬 Ask me about... No, just chat me.
