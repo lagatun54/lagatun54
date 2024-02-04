@@ -1,6 +1,6 @@
 ## Hi there, my name is Prokhar Kulak 👋
 
-- 🔭 I’m currently not working.
+- 🔭 I’m currently working.
 - 🌱 I’m currently learning everything about Game Development.
 - 💬 Ask me about... No, just chat me.
 
