@@ -9,7 +9,6 @@
 <img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 <img align="left" alt="Cocos" width="30px" src="https://www.svgrepo.com/show/330176/cocos.svg" />
-<img align="left" alt="NeedleEngine" width="26px" src="https://needle.tools/assets/needle-logo-256-97639e82.png" />
 <img align="left" alt="Unity" width="26px" src="https://companieslogo.com/img/orig/U-ea48bc1d.png?t=1634728034" />
 <img align="left" alt="Zenject" width="26px" src="https://pbs.twimg.com/profile_images/1379491996763574272/kJBWq3T4_400x400.jpg" />
 <img align="left" alt="DOTween" width="26px" src="http://dotween.demigiant.com/_imgs/logos/dotween_hotweenv2.png" />
